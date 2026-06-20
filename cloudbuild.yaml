@@ -21,4 +21,4 @@ steps:
 images:
   - 'gcr.io/$PROJECT_ID/amazingapp:$COMMIT_SHA'
 
-logsBucket: 'gs://appengine-storage-new'
+logsBucket: 'gs://cloudrun-storage0099'
